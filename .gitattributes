@@ -1,0 +1,63 @@
+* text=auto
+
+# Documents
+*.txt text
+*.md text
+*.json text
+*.yaml text
+*.csv text
+*.tsv text
+*.ps binary
+*.pdf binary
+*.rtf binary
+*.doc binary
+*.docx binary
+*.xls binary
+*.xlsx binary
+*.ppt binary
+*.pptx binary
+
+# Media
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.tif binary
+*.tiff binary
+*.ico binary
+*.svg binary
+*.eps binary
+*.mp3 binary
+*.m4a binary
+*.mp4 binary
+*.m4v binary
+*.mov binary
+
+# C++
+*.h text
+*.hpp text
+*.c text
+*.cc text
+*.cpp text
+*.cxx text
+
+# Python
+*.py text
+*.pyx text
+
+# R
+*.r text
+*.rds binary
+*.rdata binary
+
+# Web
+*.html text
+*.htm text
+*.css text
+*.sass text
+*.scss text
+*.less text
+*.js text
+*.coffee text
+*.php text
+*.jade text
