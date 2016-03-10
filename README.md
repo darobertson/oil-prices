@@ -1,5 +1,5 @@
 ## Gasoline and Diesel Prices
 
-<img src="prices.png">
+![](https://yongheng.github.io/oil-prices/prices.png)
 
-[View PDF Version](prices.pdf)
+[View PDF Version](https://yongheng.github.io/oil-prices/prices.pdf)
